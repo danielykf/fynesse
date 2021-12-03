@@ -2,6 +2,8 @@
 
 This repository provides the necessary toolings for building the housing price prediction model.
 
+Link to github repo: [https://github.com/danielykf/fynesse](https://github.com/danielykf/fynesse)
+
 ## Access
 
 There are 5 classes in `access.py`:
